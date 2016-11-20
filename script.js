@@ -31,23 +31,41 @@ console.log(fullAge);
 
 // Lecture: operators
 
-var now = 2016;
-var birthYear = now - 26;
+// var now = 2016;
+// var birthYear = now - 26;
 
-birthYear = now - 26 * 2;
+// birthYear = now - 26 * 2;
 
-console.log(birthYear);
+// console.log(birthYear);
 
-var ageJohn = 30;
-var ageMark = 30;
+// var ageJohn = 30;
+// var ageMark = 30;
 
-ageJohn = (3 + 5) * 4 - 6;
+// ageJohn = (3 + 5) * 4 - 6;
 
-ageJohn++;
-ageMark *= 2;
+// ageJohn++;
+// ageMark *= 2;
 
-console.log(ageJohn);
-console.log(ageMark);
+// console.log(ageJohn);
+// console.log(ageMark);
+//
+// Lecture if/else statements
+
+// var name = "John";
+// var age = 26;
+// var isMarried = "yes";
+
+// if (isMarried === "yes") {
+//   console.log(name + " is married!");
+// } else {
+//   console.log(name + " will marry one day");
+// }
+
+// isMarried = false;
+
+// if(isMarried) {
+//   console.log("YES!");
+// }
 
 
 
